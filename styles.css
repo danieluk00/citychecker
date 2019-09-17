@@ -1,0 +1,38 @@
+body{
+    background: #CDDDEC;
+}
+.container{
+    max-width: 400px;
+}
+
+.icon{
+    position: relative;
+    top:-50px;
+    border-radius: 50%;
+    width:100px;
+    margin-bottom: -50px;
+}
+
+.clock{
+    font-size: 3em;
+    text-align: center;
+    color: #689BCC;
+    font-family: arial;
+    margin-top:20px;
+    margin-bottom:20px;
+}
+.clock span{
+    padding: 14px;
+    background: #E6ECF6;
+    border-radius:20%;
+    text-align:center;
+}
+
+
+.title{
+    text-align:center;
+}
+
+.form-control{
+    text-align:center;
+}
